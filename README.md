@@ -1,4 +1,4 @@
 ## 💻 Chatbot Screenshot
 
-![Chatbot Screenshot](./running.png)
+![Chatbot Screenshot](./screenshot2.png)
 
